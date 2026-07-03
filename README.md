@@ -42,6 +42,10 @@ Credentials can also be provided through the `TELEGRAM_API_ID`,
 The generated `.session` file authenticates your Telegram account and must
 never be published.
 
+### License
+
+Distributed under the [MIT License](LICENSE).
+
 ## Português
 
 Baixa vídeos de um canal ou grupo do Telegram, em ordem cronológica.
@@ -80,3 +84,7 @@ As credenciais também podem ser informadas pelas variáveis
 `TELEGRAM_API_ID`, `TELEGRAM_API_HASH` e `TELEGRAM_PHONE`.
 
 O arquivo `.session` gerado autentica sua conta e nunca deve ser publicado.
+
+### Licença
+
+Distribuído sob a [Licença MIT](LICENSE).
