@@ -1,4 +1,4 @@
-# ScriptTelegram
+# Telegram midia downloader
 
 [English](#english) | [Português](#português)
 
