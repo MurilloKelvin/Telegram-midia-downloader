@@ -1,0 +1,46 @@
+# Credenciais e sessoes locais do Telegram/Telethon
+*.session
+*.session-journal
+
+# Segredos e configuracoes locais
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Artefatos de build e pacotes
+build/
+dist/
+*.egg-info/
+
+# Downloads e arquivos de midia
+downloads/
+*.mp4
+*.mkv
+*.webm
+*.part
+
+# Configuracoes locais de editores e agentes
+.vscode/
+.idea/
+.agents/
+.codex/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
